@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\estagio\\CadastroDeProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20EFD64D-DB23-43BA-A816-201EF1F52297}|CadastroDeProdutos.csproj|c:\\estagio\\cadastrodeprodutos\\routes\\cdroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EFD64D-DB23-43BA-A816-201EF1F52297}|CadastroDeProdutos.csproj|solutionrelative:routes\\cdroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EFD64D-DB23-43BA-A816-201EF1F52297}|CadastroDeProdutos.csproj|c:\\estagio\\cadastrodeprodutos\\models\\cadastromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EFD64D-DB23-43BA-A816-201EF1F52297}|CadastroDeProdutos.csproj|solutionrelative:models\\cadastromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EFD64D-DB23-43BA-A816-201EF1F52297}|CadastroDeProdutos.csproj|c:\\estagio\\cadastrodeprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EFD64D-DB23-43BA-A816-201EF1F52297}|CadastroDeProdutos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EFD64D-DB23-43BA-A816-201EF1F52297}|CadastroDeProdutos.csproj|c:\\estagio\\cadastrodeprodutos\\data\\cadastrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EFD64D-DB23-43BA-A816-201EF1F52297}|CadastroDeProdutos.csproj|solutionrelative:data\\cadastrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CdRoute.cs",
+              "DocumentMoniker": "C:\\estagio\\CadastroDeProdutos\\Routes\\CdRoute.cs",
+              "RelativeDocumentMoniker": "Routes\\CdRoute.cs",
+              "ToolTip": "C:\\estagio\\CadastroDeProdutos\\Routes\\CdRoute.cs",
+              "RelativeToolTip": "Routes\\CdRoute.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:59:53.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroModel.cs",
+              "DocumentMoniker": "C:\\estagio\\CadastroDeProdutos\\Models\\CadastroModel.cs",
+              "RelativeDocumentMoniker": "Models\\CadastroModel.cs",
+              "ToolTip": "C:\\estagio\\CadastroDeProdutos\\Models\\CadastroModel.cs",
+              "RelativeToolTip": "Models\\CadastroModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:13:24.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroContext.cs",
+              "DocumentMoniker": "C:\\estagio\\CadastroDeProdutos\\Data\\CadastroContext.cs",
+              "RelativeDocumentMoniker": "Data\\CadastroContext.cs",
+              "ToolTip": "C:\\estagio\\CadastroDeProdutos\\Data\\CadastroContext.cs",
+              "RelativeToolTip": "Data\\CadastroContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:31:45.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\estagio\\CadastroDeProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\estagio\\CadastroDeProdutos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:06:13.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
